@@ -111,7 +111,7 @@ Explore the API documentation at `http://localhost:8000/docs`.
 2. **Create a Bookmark**:
    Send a POST request to `/bookmarks/`:
    ```json
-   \{
+   {
        "title": "Example Bookmark",
        "url": "https://example.com",
        "description": "A useful resource",
